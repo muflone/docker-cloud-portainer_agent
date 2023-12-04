@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: portainer/agent:2.19.0
+    image: portainer/agent:2.19.3
     container_name: portainer_agent
     restart: "unless-stopped"
     networks:
