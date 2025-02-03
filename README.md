@@ -2,7 +2,7 @@ Docker Portainer Agent for Cloud
 ================================
 **Description:** Docker for Portainer Agent
 
-**Copyright:** 2023 Fabio Castelli (Muflone) <muflone(at)muflone.com>
+**Copyright:** 2023-2025 Fabio Castelli (Muflone) <muflone(at)muflone.com>
 
 **License:** GPL-3+
 
