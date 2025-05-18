@@ -1,7 +1,7 @@
 services:
   app:
     container_name: portainer_agent
-    image: portainer/agent:2.26.1-linux-amd64-alpine
+    image: portainer/agent:2.30.0-linux-amd64-alpine
     restart: "unless-stopped"
     networks:
       - default
